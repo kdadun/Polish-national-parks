@@ -1,0 +1,30 @@
+c:\users\kamil\documents\visual studio 2013\Projects\L5.1\L5.1\bin\L5.1.dll.config
+c:\users\kamil\documents\visual studio 2013\Projects\L5.1\L5.1\bin\L5.1.dll
+c:\users\kamil\documents\visual studio 2013\Projects\L5.1\L5.1\bin\L5.1.pdb
+c:\users\kamil\documents\visual studio 2013\Projects\L5.1\L5.1\obj\Debug\L5.1.dll
+c:\users\kamil\documents\visual studio 2013\Projects\L5.1\L5.1\obj\Debug\L5.1.pdb
+c:\users\kamil\documents\visual studio 2013\Projects\L5.1\L5.1\obj\Debug\L5.1.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\12.12.16\L5.1\L5.1\bin\L5.1.dll.config
+C:\Users\Kamil\Desktop\12.12.16\L5.1\L5.1\bin\L5.1.dll
+C:\Users\Kamil\Desktop\12.12.16\L5.1\L5.1\bin\L5.1.pdb
+C:\Users\Kamil\Desktop\12.12.16\L5.1\L5.1\obj\Debug\L5.1.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\12.12.16\L5.1\L5.1\obj\Debug\L5.1.dll
+C:\Users\Kamil\Desktop\12.12.16\L5.1\L5.1\obj\Debug\L5.1.pdb
+C:\Users\Kamil\Desktop\12.12.16\L5\L5.1\L5.1\bin\L5.1.dll.config
+C:\Users\Kamil\Desktop\12.12.16\L5\L5.1\L5.1\bin\L5.1.dll
+C:\Users\Kamil\Desktop\12.12.16\L5\L5.1\L5.1\bin\L5.1.pdb
+C:\Users\Kamil\Desktop\12.12.16\L5\L5.1\L5.1\obj\Debug\L5.1.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\12.12.16\L5\L5.1\L5.1\obj\Debug\L5.1.dll
+C:\Users\Kamil\Desktop\12.12.16\L5\L5.1\L5.1\obj\Debug\L5.1.pdb
+C:\Users\Kamil\Desktop\L5\L5\L5.1\L5.1\bin\L5.1.dll.config
+C:\Users\Kamil\Desktop\L5\L5\L5.1\L5.1\bin\L5.1.dll
+C:\Users\Kamil\Desktop\L5\L5\L5.1\L5.1\bin\L5.1.pdb
+C:\Users\Kamil\Desktop\L5\L5\L5.1\L5.1\obj\Debug\L5.1.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\L5\L5\L5.1\L5.1\obj\Debug\L5.1.dll
+C:\Users\Kamil\Desktop\L5\L5\L5.1\L5.1\obj\Debug\L5.1.pdb
+C:\Users\Kamil\Desktop\06.03.201\Smaga\sem_7\K_Dadun\L5-Poprawione\L5\L5.1\L5.1\bin\L5.1.dll.config
+C:\Users\Kamil\Desktop\06.03.201\Smaga\sem_7\K_Dadun\L5-Poprawione\L5\L5.1\L5.1\bin\L5.1.dll
+C:\Users\Kamil\Desktop\06.03.201\Smaga\sem_7\K_Dadun\L5-Poprawione\L5\L5.1\L5.1\bin\L5.1.pdb
+C:\Users\Kamil\Desktop\06.03.201\Smaga\sem_7\K_Dadun\L5-Poprawione\L5\L5.1\L5.1\obj\Debug\L5.1.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\06.03.201\Smaga\sem_7\K_Dadun\L5-Poprawione\L5\L5.1\L5.1\obj\Debug\L5.1.dll
+C:\Users\Kamil\Desktop\06.03.201\Smaga\sem_7\K_Dadun\L5-Poprawione\L5\L5.1\L5.1\obj\Debug\L5.1.pdb
